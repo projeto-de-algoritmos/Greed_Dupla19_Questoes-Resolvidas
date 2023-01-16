@@ -1,44 +1,29 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Greed_Dupla19_Questoes-Resolvidas
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 4<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0113259  |  Felipe Correia Andrade |
+| 18/0127535  |  Mateus Brandão Teixeira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolução dos exercicíos (BeeCrowd e CodeForce) do conteudo de algoritmos ambiciosos ou "Greed"
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+1- [Broken Keyboard](https://codeforces.com/problemset/problem/1765/B)
+![screenshot1](assets/screenshot1.jpeg)
+2- [War](https://www.beecrowd.com.br/judge/en/problems/view/2095)
+![screenshot2](assets/screenshot2.jpeg)
+3- [Knapsack](https://codeforces.com/problemset/problem/1446/A)
+![screenshot3](assets/screenshot3.jpeg)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++ e Python3<br>
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
